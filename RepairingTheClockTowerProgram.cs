@@ -1,4 +1,6 @@
-﻿using System.ComponentModel.Design;
+// code by william pfaff
+// written 2/2/2025
+using System.ComponentModel.Design;
 using System.Runtime.InteropServices;
 
 int number;
