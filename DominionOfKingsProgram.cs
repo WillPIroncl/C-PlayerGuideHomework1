@@ -1,3 +1,5 @@
+// code by william pfaff
+// written 2/2/2025
 ﻿class DominionOfKingsProgram
 {
     static void Main()
