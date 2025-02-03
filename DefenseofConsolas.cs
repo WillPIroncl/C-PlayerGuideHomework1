@@ -1,4 +1,5 @@
-﻿
+// code by william pfaff
+// written 2/2/2025﻿
 using System.Runtime.InteropServices;
 // setting title
 Console.Title="Defense of Consolas";
